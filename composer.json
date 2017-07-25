@@ -1,0 +1,21 @@
+{
+	"name" : "MOOCKM PHP",
+	"description" : "PHP Framework",
+	"type" : "Framework",
+	"keyWords" : ["PHP","PHP Framework"],
+	"require" : {
+		"php" : ">= 5.3.0",
+		"filp/whoops" : "*",
+		"catfan/medoo" : "*",
+		"twig/twig" : "*"
+	},
+
+	"repositories": {
+    "packagist": {
+        "type": "composer",
+        "url": "https://packagist.phpcomposer.com"
+    }
+}
+
+
+}
